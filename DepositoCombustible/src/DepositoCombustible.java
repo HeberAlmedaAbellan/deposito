@@ -92,6 +92,7 @@ public class DepositoCombustible {
 	* consumir es un método que efectua cambios reduciendo el combustible del depósito
 	* 
     * @param amount cantidad de fuel consumida
+ * @return 
     * 
     */
 	public void consumir(double amount){
